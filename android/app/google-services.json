@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933599181019",
+    "project_id": "flutter-vlad-1",
+    "storage_bucket": "flutter-vlad-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933599181019:android:44dd12d25919ee531074fe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjie9pL22trnHdPLYaDKExSxhhYC0uC40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
